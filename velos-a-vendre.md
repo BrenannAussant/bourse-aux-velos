@@ -5,3 +5,4 @@
 | 1 | Vélo de ville | M | 80 € |
 | 2 | VTT enfant | 24 pouces | 45 € |
 | 3 | Vélo de route | L | 95 € | 
+| 4 | VTT adulte | M | 70€ |
